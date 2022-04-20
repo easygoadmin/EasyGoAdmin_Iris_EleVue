@@ -44,10 +44,6 @@
 ---|---|---
 admin | 123456| 演示环境无法进行修改删除操作
 
-## 👷 技术支持
-
-`如需技术支持，请至官网联系官方QQ客服`
-
 ## 📌 版本说明
 版本名称 | 版本说明 | 版本地址
 ---|---|---
@@ -133,14 +129,6 @@ easygoadmin
 ![效果图](./uploads/demo/22.png)
 
 ![效果图](./uploads/demo/23.png)
-
-
-## 🍻 贡献者名单
-
-@半城风雨
-
-## 🍻  安全&缺陷
-如果你发现了一个安全漏洞或缺陷，请发送邮件到 easygoadmin@163.com,所有的安全漏洞都将及时得到解决。
 
 ## ✨  特别鸣谢
 感谢[Iris](https://iris-go.com/)、[VueJs](https://cn.vuejs.org/)、[ElementUI](https://element.eleme.cn/#/)等优秀开源项目。
