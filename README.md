@@ -131,7 +131,7 @@ easygoadmin
 ![效果图](./uploads/demo/23.png)
 
 ## ✨  特别鸣谢
-感谢[Iris](https://iris-go.com/)、[VueJs](https://cn.vuejs.org/)、[ElementUI](https://element.eleme.cn/#/)等优秀开源项目。
+感谢[Iris](https://iris-go.com/)、[Vue](https://cn.vuejs.org/)、[ElementUI](https://element.eleme.cn/#/)等优秀开源项目。
 
 ## 📚 版权信息
 
