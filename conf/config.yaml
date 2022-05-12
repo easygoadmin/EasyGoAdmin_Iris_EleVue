@@ -53,4 +53,4 @@ easygoadmin:
   # 调试模式
   debug: false
   # 图片域名
-  image: "http://images.beego.ele"
+  image: "http://images.iris.elevue"
